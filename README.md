@@ -11,7 +11,7 @@
 ## Developed by 💻:
 - [Fernando Schettini](https://github.com/FernandoSchett).
 - [Antonio Horácio](https://github.com/AntonioHoracio77).
-- [Orlando MOta](https://github.com/orlandomotapires).
+- [Orlando Mota](https://github.com/orlandomotapires).
 
 ## About 🤔:
 
