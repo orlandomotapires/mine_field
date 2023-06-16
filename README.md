@@ -15,12 +15,25 @@
 
 ## About 🤔:
 
-## Summary 📝:
+In this JAVA project, we have utilized the principles of object-oriented programming to create an engaging version of the game as part of an evaluative activity for the LP1 (Programming Language 1) course taught at SENAI CIMATEC in 2022.1.
+
+The objective of the Minesweeper game is to uncover all the cells on the grid without detonating any mines. You'll need to use your logical thinking and deduction skills to strategically flag cells that potentially contain mines.
 
 ## Resourses 🧑‍🔬:
 
-- 
-- 
+- Visual Interface: The project has a graphical user interface (GUI) that provides a visual representation of the game.
+
+- Restart Functionality: The game allows the user to restart or reset the game at any point, giving them the option to start over.
+
+- Recursive Logic for Opening Squares: The squares in the game open in a recursive manner, meaning that when a square is opened, it may trigger the opening of neighboring squares based on a logical rule.
+
+- Visual Feedback on Surrounding Bombs: The user receives visual feedback about the number of bombs surrounding a particular square. This information helps the user make strategic decisions while playing the game.
+
+- Win/Loss Visual Feedback: The user is visually notified when they win or lose the game, indicating the outcome of their gameplay.
+
+- Remaining Bombs Indicator: The game provides information on how many bombs are left to be discovered, giving the user a sense of progress and completion.
+
+- Flag Placement on Bombs: The user can place flags on the squares where they suspect bombs to be located. This feature helps the user mark potential bomb locations for better gameplay strategy.
 
 ## Dependencies 🚚:
 
@@ -43,7 +56,8 @@ First, clone this repository. After that, simply execute the ```file_name``` fil
 
 ## Screens 🎬:
 
-<app_name> screens were developed to turn out like figure 1.
+Mine Field Game screens were developed to turn out like figure 1.
+
 <div align="center">
 	<a href="">
 	<img height = "250em" src = "" />
@@ -51,10 +65,7 @@ First, clone this repository. After that, simply execute the ```file_name``` fil
 </div>
 <h4 align="center">Figure 1 - Screens from Mine Field Game.</h4>
 
-
 ## UML‍ 💬:
-
-
 
 Heres the UML that represents how the application works with their classes.
 
@@ -67,16 +78,15 @@ Heres the UML that represents how the application works with their classes.
 
 ## Development Process ⚙️:
 
-Developers used [Trello]() to get things organized, each one using their own branch to code, using names to identify the commit type then merginng the features into develop branch. After testing, the group update the main branch. This application was developed in xx/xx/20xx until xx/xx/20xx.
+Our team collaborated on the development of the project on GitHub over a span of five days. Although we didn't adhere to a specific methodology, we organized the repository, utilized Git for version control, drew inspiration from various references<sup>[1]</sup>, and documented the project for replication.
 
 ### Tools Used 🛠️: 
 
-- [Eclipse](https://www.eclipse.org/downloads/). 
--  
+- [Eclipse](https://www.eclipse.org/downloads/).
 
 ## How to contribute 🫂:
 
-Feel free to create a new branch, fork the project, , create a new Issue or make a pull request contact one of us to develop at Mine Field Game.
+Feel free to create a new branch, fork the project,create a new Issue or make a pull request contact one of us to develop at Mine Field Game.
 
 ## Licence 📜:
 
