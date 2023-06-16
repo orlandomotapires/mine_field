@@ -35,6 +35,8 @@ The objective of the Minesweeper game is to uncover all the cells on the grid wi
 
 - Flag Placement on Bombs: The user can place flags on the squares where they suspect bombs to be located. This feature helps the user mark potential bomb locations for better gameplay strategy.
 
+- Selectable Difficulty: The game allows the user to choose the difficulty level from options such as easy, medium, and hard. Each difficulty level presents different challenges and adjustments in the gameplay, offering a customizable experience for players of varying skill levels.
+
 ## Dependencies 🚚:
 
 The project dependencies are described in a dependencies file within the repository. In summary, heres what you're gonna need in order to run the project:
