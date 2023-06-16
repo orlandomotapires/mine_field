@@ -1,31 +1,17 @@
 ### This READ.md template was written based on this [repository](https://github.com/FernandoSchett/github_readme_template).
 
-
-Aqui estar�o dispostas as iforma��es das classes e dos m�todos utilizados.
-
-CLASSE Casa.java: Representa o quadrado unit�rio que pode ser ocupado por uma bomba ou estar vazio.
-    -BombasAoLado : Inteiro que ser� incrementada toda vez que uma bomba se encontrar pr�ximo a casa atual;
-    -incrementaBomba() : Realiza o processo de varredura para mapear quantas bombas se encontram ao redor daquela casa.
-    
-CLASSE Tabuleiro.java: Cont�m todos os m�todos necess�rios para gerar o campo.
-    -Tabuleiro() : Inicializa uma matriz de da classe Casa.java.
-    -
-
-	
-<h1 align="center">🟠 Application Title 🟠</h1>
+<h1 align="center">💣 Mine Field Game 💣</h1>
 
 <div align="center">
 	<a href="link_for_webite">
-	<img height = "250em" src = "" />
+	<img height = "250em" src = "https://github.com/orlandomotapires/mine_field/assets/80331486/cee65f8d-40bd-4fe5-92a4-ed43ed3ce189" />
     </a>
 </div>
 
 ## Developed by 💻:
-- [<you_name>](https://github.com/FernandoSchett).
-
-## Special thanks to 🥰:
-- [<person_name>](https://github.com/<profile_username>), Your experience and knowledge have been invaluable to our progress.
-
+- [Fernando Schettini](https://github.com/FernandoSchett).
+- [Antonio Horácio](https://github.com/AntonioHoracio77).
+- [Orlando MOta](https://github.com/orlandomotapires).
 
 ## About 🤔:
 
@@ -35,15 +21,6 @@ CLASSE Tabuleiro.java: Cont�m todos os m�todos necess�rios para gerar o ca
 
 - 
 - 
-
-
-## Results 📈:
-
-## Routes 🛣️:
-Every Route from the API can be found in [swagger](). 
-
--
--
 
 ## Dependencies 🚚:
 
@@ -66,17 +43,18 @@ First, clone this repository. After that, simply execute the ```file_name``` fil
 
 ## Screens 🎬:
 
-<app_name> screens were developed to turn out like [figma](link_for_figma) screens:
-
+<app_name> screens were developed to turn out like figure 1.
 <div align="center">
 	<a href="">
 	<img height = "250em" src = "" />
     </a>
 </div>
-<h4 align="center">Figure 1 - Screens from <app_name> </h4>
+<h4 align="center">Figure 1 - Screens from Mine Field Game.</h4>
 
 
 ## UML‍ 💬:
+
+
 
 Heres the UML that represents how the application works with their classes.
 
@@ -85,18 +63,7 @@ Heres the UML that represents how the application works with their classes.
 	<img height = "250em" src = "" />
     </a>
 </div>
-<h4 align="center">Figure 2 - <app_name> UML.</h4>
-
-
-## Database 🗃️:
-
-<div align="center">
-	<a href="">
-	<img height = "250em" src = "" />
-    </a>
-</div>
-
-<h4 align="center">Figure 3 - Relational Model Database.</h4>
+<h4 align="center">Figure 2 - Mine Field Game UML.</h4>
 
 ## Development Process ⚙️:
 
@@ -104,13 +71,12 @@ Developers used [Trello]() to get things organized, each one using their own bra
 
 ### Tools Used 🛠️: 
 
-- [Tool](http:link.com). 
-- 
-- 
+- [Eclipse](https://www.eclipse.org/downloads/). 
+-  
 
 ## How to contribute 🫂:
 
-Feel free to create a new branch, fork the project, , create a new Issue or make a pull request contact one of us to develop at <app_name>.
+Feel free to create a new branch, fork the project, , create a new Issue or make a pull request contact one of us to develop at Mine Field Game.
 
 ## Licence 📜:
 
@@ -118,6 +84,5 @@ Feel free to create a new branch, fork the project, , create a new Issue or make
 
 ## References 📙:
 	
-[1] <last_author_name>, <first_author_name>. <work_title>. XX/XX/XX.
+[1] BAIMAGAMBETOV, Almas. Almas Baimagambetov - JavaFX Game: Minesweeper. [online video]. Available at: https://www.youtube.com/watch?v=JwcyxuKko_M&t=248s&ab_channel=AlmasBaimagambetov. Accessed on: 06/16/2023.
 	
-[2] <work_title>, <author_name>. Avaliable in: <https://www.link.com>. Access in em XX/XX/XX.
